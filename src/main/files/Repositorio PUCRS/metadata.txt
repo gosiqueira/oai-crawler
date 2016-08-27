@@ -1,0 +1,1 @@
+['Repositorio PUCRS', 'http://repositorio.pucrs.br/oai/request', '2.0', 'YYYY-MM-DDThh:mm:ssZ', [], 'persistent']
