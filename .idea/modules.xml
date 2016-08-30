@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/oai_crawler.iml" filepath="$PROJECT_DIR$/.idea/oai_crawler.iml" />
       <module fileurl="file://D:/py_workspace/oai_crawler/.idea/oai_crawler.iml" filepath="D:/py_workspace/oai_crawler/.idea/oai_crawler.iml" />
     </modules>
   </component>
