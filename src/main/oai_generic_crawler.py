@@ -27,7 +27,7 @@ class OAICrawler():
         This class provides a basic OAI crawler for repositories that use such a protocol.
     '''
     def __init__(self):
-        logging.basicConfig(level=logging.DEBUG)
+        logging.basicConfig(level=logging.DEBUG, format='[%(levelname)s] (%(threadName)s) -   %(message)s')
         self.logger = logging.getLogger(__name__)
         self.unvisited_repository = list()
 
@@ -157,7 +157,7 @@ def parse_repository_file(file):
 
 if __name__ == '__main__':
     # Main usage
-    #OAICrawler().pool_worker(parse_repository_file('world_repositories'))
+    OAICrawler().pool_worker(parse_repository_file('world_repositories'))
 
     # Test usage
-    OAICrawler().pool_worker([['AUT University Doctoral Theses','http://aut.researchgateway.ac.nz/dspace-oai/request','col_10292_4','mets']])
+    #OAICrawler().pool_worker([['AUT University Doctoral Theses','http://aut.researchgateway.ac.nz/dspace-oai/request','col_10292_4','mets']])
