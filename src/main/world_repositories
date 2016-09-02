@@ -1,8 +1,12 @@
-North-West University (South Africa)	http://dspace.nwu.ac.za/oai/request	None	metadataPrefix=oai_dc
+North-West University (South Africa)	http://dspace.nwu.ac.za/oai/request	set=com_10394_1	metadataPrefix=oai_dc
+North-West University (South Africa)	http://dspace.nwu.ac.za/oai/request	set=col_10394_2	metadataPrefix=oai_dc
+North-West University (South Africa)	http://dspace.nwu.ac.za/oai/request	set=col_10394_675	metadataPrefix=oai_dc
+North-West University (South Africa)	http://dspace.nwu.ac.za/oai/request	set=col_10394_1864	metadataPrefix=oai_dc
 AUT University Doctoral Theses	http://aut.researchgateway.ac.nz/dspace-oai/request	set=col_10292_4	metadataPrefix=mets
 AUT University Masters Theses	http://aut.researchgateway.ac.nz/dspace-oai/request	set=col_10292_5	metadataPrefix=mets
 AUT University Masters Dissertations	http://aut.researchgateway.ac.nz/dspace-oai/request	set=col_10292_476	metadataPrefix=mets
 Aalto University	https://aaltodoc.aalto.fi/oai/request	set=com_123456789_3	metadataPrefix=oai_dc
+Aalto University	https://aaltodoc.aalto.fi/oai/request	set=com_123456789_5	metadataPrefix=oai_dc
 Aalto University Master Theses	https://aaltodoc.aalto.fi/oai/request	set=hdl_123456789_5	metadataPrefix=oai_dc
 Abertay University Doctoral Theses	https://repository.abertay.ac.uk/oai/request	set=com_10373_8	metadataPrefix=mets
 Abertay University Doctoral Theses	https://repository.abertay.ac.uk/oai/request	set=col_10373_10	metadataPrefix=mets
@@ -61,7 +65,7 @@ Corvinus University of Budapest	http://phd.lib.uni-corvinus.hu/cgi/oai2	set=7479
 Cranfield University	http://dspace.lib.cranfield.ac.uk/dspace-oai/request	set=hdl_1826_7	metadataPrefix=oai_dc
 Creighton University	https://dspace.creighton.edu/oai/request	set=col_10504_51	metadataPrefix=uketd_dc
 Curtin University	http://espace.library.curtin.edu.au/OAI-PUB/2	set=theses	metadataPrefix=oai_dc
-DIVA	http://www.diva-portal.org/dice/oai	set=studentThesis	metadataPrefix=swepub_mods
+DIVA	http://www.diva-portal.org/dice/oai	None	metadataPrefix=swepub_mods
 DePaul University	http://via.library.depaul.edu/do/oai/	set=publication:etd	metadataPrefix=qualified-dublin-core
 Deakin University	http://dro.deakin.edu.au/oai.php	set=oai:dro.deakin.edu.au:DU:30026572	metadataPrefix=oai_dc
 Delft University of Technology	http://oai.tudelft.nl/ir	set=Student-theses	metadataPrefix=oai_dc
