@@ -2,8 +2,10 @@
 # -*- coding: utf-8 -*-
 
 
+from requests.exceptions import HTTPError
 from multiprocessing.dummy import Pool
 from oaipmh.client import Client
+from oaipmh.error import BadVerbError
 from oaipmh.error import NoRecordsMatchError
 from oaipmh.metadata import MetadataRegistry, oai_dc_reader
 from os.path import exists
@@ -130,6 +132,14 @@ class OAICrawler():
             # add url to unvisited_url and ask retrieval to try to crawl them again
             if nrme.message == 'No matches for the query':
                 self.unvisited_repository.append(repository)
+
+        except BadVerbError, bve:
+            self.logger.error('{0}. Check repository {1}'.format(bve.message, repository[0]))
+
+        except HTTPError, httpe:
+            self.logger.error(
+                'Error 404. Page not found. Check url {0} for repository {1}'.format(repository[1], repository[0]))
+            self.logger.error(httpe.message, exc_info=True)
 
         except Exception, e:
             # if any unexpected error occurs, we must keep tracking

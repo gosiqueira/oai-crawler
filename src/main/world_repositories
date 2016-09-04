@@ -7,12 +7,24 @@ AUT University Masters Theses	http://aut.researchgateway.ac.nz/dspace-oai/reques
 AUT University Masters Dissertations	http://aut.researchgateway.ac.nz/dspace-oai/request	set=col_10292_476	metadataPrefix=mets
 Aalto University	https://aaltodoc.aalto.fi/oai/request	set=com_123456789_3	metadataPrefix=oai_dc
 Aalto University	https://aaltodoc.aalto.fi/oai/request	set=com_123456789_5	metadataPrefix=oai_dc
-Aalto University Master Theses	https://aaltodoc.aalto.fi/oai/request	set=hdl_123456789_5	metadataPrefix=oai_dc
-Abertay University Doctoral Theses	https://repository.abertay.ac.uk/oai/request	set=com_10373_8	metadataPrefix=mets
+Aalto University	https://aaltodoc.aalto.fi/oai/request	set=col_123456789_10336	metadataPrefix=oai_dc
+Aalto University Master Theses	https://aaltodoc.aalto.fi/oai/request	set=col_123456789_23	metadataPrefix=oai_dc
+Aalto University Master Theses	https://repository.abertay.ac.uk/oai/request	set=com_10373_8	metadataPrefix=mets
 Abertay University Doctoral Theses	https://repository.abertay.ac.uk/oai/request	set=col_10373_10	metadataPrefix=mets
-Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=hdl_2160_18	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_169	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_255	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_331 	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_395	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_396 	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_445 	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_555 	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_569	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_570 	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_601	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_671 	metadataPrefix=mets
+Aberystwyth University	http://cadair.aber.ac.uk/dspace-oai/request	set=col_2160_672	metadataPrefix=mets
 Addis Ababa University	http://etd.aau.edu.et/dspace-oai/request	None	metadataPrefix=oai_dc
-Angelo State University	https://repositories.tdl.org/asu-oai/request	set=hdl_2346.1_1	metadataPrefix=mets
+Angelo State University	https://repositories.tdl.org/asu-oai/request	set=com_2346.1_1	metadataPrefix=mets
 Aston University	http://eprints.aston.ac.uk/cgi/oai2	set=74797065733D746865736973	metadataPrefix=uketd_dc
 Auburn University	http://etd.auburn.edu/oai/request	set=col_10415_2	metadataPrefix=mets
 Australian National University	https://digitalcollections.anu.edu.au/oai/request	set=hdl_1885_3	metadataPrefix=mets
@@ -50,7 +62,7 @@ Central Connecticut State University	http://content.library.ccsu.edu/oai/oai2.ph
 Central Florida	http://digital.library.ucf.edu/oai/oai.php	set=ETD	metadataPrefix=oai_dc
 Central Queensland University	http://acquire.cqu.edu.au:8080/fedora/oai	None	metadataPrefix=oai_dc
 Chalmers University of Technology	http://studentarbeten.chalmers.se/oai-pmh/general/	None	metadataPrefix=oai_dc
-Christian-Albrechts Universit&auml;t Kiel	http://macau.uni-kiel.de/oai	set=publ-type:TYPE0008	metadataPrefix=xMetaDissPlus
+"Christian-Albrechts Universit&auml;t Kiel"	http://macau.uni-kiel.de/oai	set=publ-type:TYPE0008	metadataPrefix=xMetaDissPlus
 City University of Hong Kong	http://dspace.cityu.edu.hk/oai/request	None	metadataPrefix=oai_dc
 Claremont Graduate University	http://scholarship.claremont.edu/do/oai/	set=publication:cgu_etd	metadataPrefix=qualified-dublin-core
 Clark University Atlanta	http://digitalcommons.auctr.edu/do/oai/	set=publication:cauetds	metadataPrefix=qualified-dublin-core
@@ -77,7 +89,7 @@ Duke University	http://dukespace.lib.duke.edu/dspace-oai/request	set=hdl_10161_4
 Durban University of Technology	http://ir.dut.ac.za/oai/request	None	metadataPrefix=oai_dc
 Durham University	http://etheses.dur.ac.uk/cgi/oai2	None	metadataPrefix=uketd_dc
 EPFL	http://infoscience.epfl.ch/oai2d/	set=thesis-public	metadataPrefix=oai_dc
-ETH Z&uuml;rich	http://aleph-prod.ethz.ch/OAI	None	metadataPrefix=oai_dc
+"ETH Z&uuml;rich"	http://aleph-prod.ethz.ch/OAI	None	metadataPrefix=oai_dc
 ETS (Quebec)	http://espace.etsmtl.ca/cgi/oai2	set=74797065733D746865736973	metadataPrefix=oai_dc
 East Carolina University	http://thescholarship.ecu.edu/oai/request	set=com_10342_122	metadataPrefix=uketd_dc
 East Tennessee State University	http://dc.etsu.edu/do/oai/	set=publication:etd	metadataPrefix=oai_etdms
@@ -90,7 +102,7 @@ Ferris State University	http://fir.ferris.edu:8080/oai/request	set=com_2323_2916
 Florida Atlantic University	http://digitool.fcla.edu/OAI-PUB	set=fau	metadataPrefix=oai_dc
 Florida International University	http://digitalcommons.fiu.edu/do/oai/	set=publication:etd	metadataPrefix=oai_etdms
 Florida State University	http://diginole.lib.fsu.edu/do/oai/	set=publication:etd	metadataPrefix=qualified-dublin-core
-Freie Universit&auml;t Berlin	http://edocs.fu-berlin.de/diss/servlets/MCROAIProvider	set=doc-type:doctoralThesis	metadataPrefix=xMetaDissPlus
+"Freie Universit&auml;t Berlin"	http://edocs.fu-berlin.de/diss/servlets/MCROAIProvider	set=doc-type:doctoralThesis	metadataPrefix=xMetaDissPlus
 George Mason University	http://digilib.gmu.edu:8080/dspace-oai/request	set=hdl_1920_2811	metadataPrefix=mets
 Georgetown University	https://repository.library.georgetown.edu/oai/request	set=com_10822_707883	metadataPrefix=mets
 Georgia Southern University	http://digitalcommons.georgiasouthern.edu/do/oai/	set=publication:etd	metadataPrefix=qualified-dublin-core
@@ -107,7 +119,7 @@ Hokkaido University	http://eprints.lib.hokudai.ac.jp/dspace-oai/request	set=hdl_
 Hong Kong University	http://hub.hku.hk/oai/request	set=col_10722_1057	metadataPrefix=mets
 Hong Kong University of Science and Technology	http://repository.ust.hk/ir/OAI/Server	None	metadataPrefix=oai_dc
 Humboldt State University	http://scholarworks.calstate.edu/oai/request	set=com_2148_537	metadataPrefix=uketd_dc
-Humboldt Universit&auml;t zu Berlin	http://edoc.hu-berlin.de/OAI-2.0	set=doc-type:masterThesis	metadataPrefix=oai_dc
+"Humboldt Universit&auml;t zu Berlin"	http://edoc.hu-berlin.de/OAI-2.0	set=doc-type:masterThesis	metadataPrefix=oai_dc
 IBICT	http://oai.ibict.br/mypoai/oai2.php	None	metadataPrefix=oai_dc
 INFLIBNET	http://shodhganga.inflibnet.ac.in:8080/oai/request	None	metadataPrefix=rdf
 INP de Toulouse	http://ethesis.inp-toulouse.fr/perl/oai2	None	metadataPrefix=oai_dc
@@ -125,7 +137,7 @@ Johns Hopkins University	http://oai.library.jhu.edu/oai-dspace/request	set=hdl_1
 KAUST	http://repository.kaust.edu.sa/kaust/oai/request	set=com_10754_124545	metadataPrefix=uketd_dc
 Kansas State University	http://krex.k-state.edu/dspace-oai/request	set=com_2097_1	metadataPrefix=dim
 Kansas State University (Retro)	http://krex.k-state.edu/dspace-oai/request	set=hdl_2097_4234	metadataPrefix=uketd_dc
-Karlsruhe Institut f&uuml;r Technologie	http://www.ubka.uni-karlsruhe.de/oai/eva/oai2.php	set=pub-type:dissertation	metadataPrefix=oai_dc
+"Karlsruhe Institut f&uuml;r Technologie"	http://www.ubka.uni-karlsruhe.de/oai/eva/oai2.php	set=pub-type:dissertation	metadataPrefix=oai_dc
 Karolinska Institute	http://publications.ki.se/oai/request	set=hdl_10616_219	metadataPrefix=mets
 Kennesaw State University	http://digitalcommons.kennesaw.edu/do/oai/	set=publication:etd	metadataPrefix=qualified-dublin-core
 KoBSON Serbian ETD Repository	http://kobson.nb.rs/oaiphd/oai2.aspx	set=phd	metadataPrefix=oai_dc
@@ -143,7 +155,7 @@ London School of Economics	http://etheses.lse.ac.uk/cgi/oai2	None	metadataPrefix
 Louisiana State University	http://etd.lsu.edu/OAI/oai.pl	None	metadataPrefix=oai_etdms
 Loyola Marymout University	http://digitalcommons.lmu.edu/do/oai/	set=publication:etd	metadataPrefix=oai_etdms
 Loyola University Chicago	http://ecommons.luc.edu/do/oai/	set=publication:luc_diss	metadataPrefix=qualified-dublin-core
-Ludwig Maxmilians Universit&auml;t M&uuml;nchen	http://edoc.ub.uni-muenchen.de/cgi/oai2	set=driver	metadataPrefix=oai_dc
+"Ludwig Maxmilians Universit&auml;t M&uuml;nchen"	http://edoc.ub.uni-muenchen.de/cgi/oai2	set=driver	metadataPrefix=oai_dc
 MIT	http://dspace.mit.edu/oai/request	set=hdl_1721.1_7582	metadataPrefix=mets
 Maastricht University	http://arnop.unimaas.nl/oai/dare.cgi	None	metadataPrefix=oai_dc
 Macquarie University	http://www.researchonline.mq.edu.au/vital/oai/provider	set=Thesis_PhD	metadataPrefix=oai_dc
@@ -181,10 +193,10 @@ Open Universiteit	http://dspace.ou.nl/dspace-oai/request	set=hdl_1820_1159	metad
 Open University of Tanzania	http://repository.out.ac.tz/cgi/oai2	set=74797065733D746865736973	metadataPrefix=uketd_dc
 Oregon Health Sciences University	http://digitalcommons.ohsu.edu/do/oai/	set=publication:etd	metadataPrefix=qualified-dublin-core
 Oregon State University	http://ir.library.oregonstate.edu/oai/request	set=com_1957_88	metadataPrefix=dim
-PUC del Per&uacute;	http://tesis.pucp.edu.pe/oai/request	set=hdl_123456789_1	metadataPrefix=oai_dc
+"PUC del Per&uacute;"	http://tesis.pucp.edu.pe/oai/request	set=hdl_123456789_1	metadataPrefix=oai_dc
 PUC-Rio de Janeiro	http://www.maxwell.vrac.puc-rio.br/ibict.php	None	metadataPrefix=oai_dc
 Penn State University	https://etda.libraries.psu.edu/oai/	None	metadataPrefix=oai_dc
-Philipps Universit&auml;t Marburg	http://archiv.ub.uni-marburg.de/oai/provider	set=xMetaDissPlus	metadataPrefix=xMetaDissPlus
+"Philipps Universit&auml;t Marburg"	http://archiv.ub.uni-marburg.de/oai/provider	set=xMetaDissPlus	metadataPrefix=xMetaDissPlus
 Portland State University	http://pdxscholar.library.pdx.edu/do/oai/	set=publication:open_access_etds	metadataPrefix=oai_etdms
 Portugal	http://dited.bn.pt/oaicat/OAIHandler	set=ndltd	metadataPrefix=oai_dc
 Princeton University	http://dataspace.princeton.edu/oai/request	set=hdl_88435_dsp01td96k251d	metadataPrefix=oai_dc
@@ -205,7 +217,7 @@ Rockefeller	http://dspace.rockefeller.edu/oai/request	set=hdl_10209_31	metadataP
 Roger Williams University	http://docs.rwu.edu/do/oai/	set=publication:theses	metadataPrefix=oai_dc
 Roskilde Universitet	http://rudar.ruc.dk/dspace-oai/request	None	metadataPrefix=mets
 Royal Roads University	http://dspace.royalroads.ca/oai/request	set=hdl_10170_36	metadataPrefix=oai_dc
-Ruhr Universit&auml;t Bochum	http://oai.ub.rub.de/oai/oai2.php	None	metadataPrefix=oai_dc
+"Ruhr Universit&auml;t Bochum"	http://oai.ub.rub.de/oai/oai2.php	None	metadataPrefix=oai_dc
 Rutgers University	https://rucore.libraries.rutgers.edu/api/oai-pmh/	None	metadataPrefix=oai_dc
 Ryerson University	http://digital.library.ryerson.ca/oai2	set=RULA_etd	metadataPrefix=oai_dc
 SEALS Consortium	http://contentpro.seals.ac.za/iii/oairep/OAIRepository	None	metadataPrefix=oai_dc
@@ -234,9 +246,9 @@ Swedish University of Agricultural Sciences	http://pub.epsilon.slu.se/cgi/oai2	s
 Swinburne University of Technology	http://researchbank.swinburne.edu.au/vital/oai/provider	None	metadataPrefix=oai_dc
 Syracuse University	http://surface.syr.edu/do/oai/	set=publication:oa_etd	metadataPrefix=oai_etdms
 TDX	http://tdx.cat/oai/request	None	metadataPrefix=mets
-Technische Universit&auml;t Darmstadt	http://tuprints.ulb.tu-darmstadt.de/cgi/oai2	set=747970653D746865736973	metadataPrefix=xMetaDiss
-Technische Universit&auml;t Dortmund - Doctoral	https://eldorado.tu-dortmund.de/dspace-oai/request	set=doc-type:doctoralThesis	metadataPrefix=mets
-Technische Universit&auml;t Dortmund - Masters	https://eldorado.tu-dortmund.de/dspace-oai/request	set=doc-type:masterThesis	metadataPrefix=mets
+"Technische Universit&auml;t Darmstadt"	http://tuprints.ulb.tu-darmstadt.de/cgi/oai2	set=747970653D746865736973	metadataPrefix=xMetaDiss
+"Technische Universit&auml;t Dortmund - Doctoral"	https://eldorado.tu-dortmund.de/dspace-oai/request	set=doc-type:doctoralThesis	metadataPrefix=mets
+"Technische Universit&auml;t Dortmund - Masters"	https://eldorado.tu-dortmund.de/dspace-oai/request	set=doc-type:masterThesis	metadataPrefix=mets
 Temple University	http://digital.library.temple.edu/oai/oai2.php	None	metadataPrefix=oai_dc
 Texas A&M University	http://repository.tamu.edu/dspace-oai/request	set=col_1969.1_2	metadataPrefix=dim
 Texas A&M University - Corpus Christi	https://repositories.tdl.org/tamucc-oai/request	set=hdl_1969.6_1	metadataPrefix=mets
@@ -245,7 +257,7 @@ Texas State University	https://digital.library.txstate.edu/oai/request	set=com_1
 Texas Technology University	https://repositories.tdl.org/ttu-oai/request	set=hdl_2346_521	metadataPrefix=mets
 Texas Woman's University	http://poar.twu.edu/oai/request	set=com_123456789_65	metadataPrefix=uketd_dc
 Theseus	http://publications.theseus.fi/oai/request	None	metadataPrefix=mets
-Troms&oslash; University	http://www.ub.uit.no/munin-oai/request	None	metadataPrefix=mets
+"Troms&oslash; University"	http://www.ub.uit.no/munin-oai/request	None	metadataPrefix=mets
 Tulane University	https://server16313.contentdm.oclc.org/cgi-bin/oai.exe	set=p16313coll12	metadataPrefix=oai_dc
 U. of Salford	http://usir.salford.ac.uk/cgi/oai2	set=dart	metadataPrefix=uketd_dc
 U. of St. Andrews	https://research-repository.st-andrews.ac.uk/dspace-oai/request	None	metadataPrefix=mets
@@ -260,8 +272,8 @@ Universidad Nacional de Ingenieria	http://cybertesis.uni.edu.pe/oai/request	None
 Universidad Nacional de La Plata	http://sedici.unlp.edu.ar/oai/request	None	metadataPrefix=oai_dc
 Universidad Nacional de Mar del Plata	http://nulan.mdp.edu.ar/cgi/oai2	set=74797065733D746865736973	metadataPrefix=uketd_dc
 Universidad Peruana de Ciencias Aplicadas	http://repositorioacademico.upc.edu.pe/upc/oai/request	None	metadataPrefix=mets
-Universidad Polit&eacute;cnica de Cartagena	http://repositorio.bib.upct.es:8080/dspace-oai/request	set=hdl_10317_8	metadataPrefix=oai_dc
-Universidad Polit&eacute;cnica de Madrid	http://oa.upm.es/cgi/oai2	set=747970653D746865736973	metadataPrefix=uketd_dc
+"Universidad Polit&eacute;cnica de Cartagena"	http://repositorio.bib.upct.es:8080/dspace-oai/request	set=hdl_10317_8	metadataPrefix=oai_dc
+"Universidad Polit&eacute;cnica de Madrid"	http://oa.upm.es/cgi/oai2	set=747970653D746865736973	metadataPrefix=uketd_dc
 Universidad Privada del Norte	http://repositorio.upn.edu.pe/oai/request	None	metadataPrefix=oai_dc
 Universidad Ricardo Palma	http://cybertesis.urp.edu.pe/oai/request	None	metadataPrefix=uketd_dc
 Universidad de Cantabria	http://repositorio.unican.es/oai/request	None	metadataPrefix=oai_dc
@@ -271,47 +283,47 @@ Universidad de Oviedo	http://digibuo.uniovi.es/dspace-oai/request	set=col_10651_
 Universidad de Salamanca	http://gredos.usal.es/oai/request	set=hdl_10366_4756	metadataPrefix=mets
 Universidad de Valladolid	http://uvadoc.uva.es/oai/request	set=col_10324_41	metadataPrefix=uketd_dc
 Universidad de las Americas Puebla	http://catarina.udlap.mx/u_dl_a/tales/oai/requestETD.jsp	None	metadataPrefix=oai_etdms
-Universidad del Pac&iacute;fico	http://repositorio.up.edu.pe/oai/request	set=com_11354_6	metadataPrefix=mets
+"Universidad del Pac&iacute;fico"	http://repositorio.up.edu.pe/oai/request	set=com_11354_6	metadataPrefix=mets
 Universidad del Rosario	http://repository.urosario.edu.co/oai/request	set=com_10336_562	metadataPrefix=oai_dc
 Universidade Aberta	https://repositorioaberto.uab.pt/oai/request	set=com_10400.2_5	metadataPrefix=mets
 Universidade Estadual de Campinas	http://libdigi.unicamp.br/OAI/I/index.php	None	metadataPrefix=mtd2-br
 Universidade Jean Piaget de Cabo Verde	http://bdigital.unipiaget.cv:8080/oai/request	None	metadataPrefix=oai_dc
 Universidade de Averio	http://ria.ua.pt/oai/request	set=hdl_10773_425	metadataPrefix=mets
-Universidade de Bras&iacute;lia	http://repositorio.unb.br/oai/request	None	metadataPrefix=oai_dc
+"Universidade de Bras&iacute;lia"	http://repositorio.unb.br/oai/request	None	metadataPrefix=oai_dc
 Universidade de Coimbro	https://estudogeral.sib.uc.pt/oai/request	None	metadataPrefix=mets
-Universit&agrave; Cattolica del Sacro Cuore	http://tesionline.unicatt.it/dspace-oai/request	None	metadataPrefix=mets
-Universit&agrave; degli Studi di Bergamo	http://aisberg.unibg.it/dspace-oai/request	set=hdl_10446_6104	metadataPrefix=oai_dc
-Universit&agrave; degli Studi di Milano	http://air.unimi.it/dspace-oai/request	set=hdl_2434_146884	metadataPrefix=oai_dc
-Universit&agrave; degli Studi di Padova	http://tesi.cab.unipd.it/cgi/oai2	None	metadataPrefix=oai_dc
-Universit&agrave; degli Studi di Trento	http://eprints-phd.biblio.unitn.it/cgi/oai2	set=74797065733D746865736973	metadataPrefix=uketd_dc
-Universit&agrave; di Bologna	http://amsdottorato.unibo.it/cgi/oai2	None	metadataPrefix=oai_dc
-Universit&agrave; di Cagliari	http://veprints.unica.it/cgi/oai2	set=74797065733D746865736973	metadataPrefix=uketd_dc
-Universit&agrave; di Pisa	https://etd.adm.unipi.it/ETD-db/NDLTD-OAI/oai.pl	None	metadataPrefix=oai_etdms
-Universit&auml;t Basel	http://edoc.unibas.ch/cgi/oai2	set=74797065733D746865736973	metadataPrefix=oai_dc
-Universit&auml;t Bayreuth	https://epub.uni-bayreuth.de/cgi/oai2	set=driver	metadataPrefix=xMetaDissPlus
-Universit&auml;t Bielefeld	http://pub.uni-bielefeld.de/oai	None	metadataPrefix=xMetaDissPlus
-Universit&auml;t Bremen	http://elib.suub.uni-bremen.de/cgi-bin/CiXbase/edocs/CiXbase_search	set=DISS	metadataPrefix=xMetaDiss
-Universit&auml;t Giessen	http://geb.uni-giessen.de/geb/oai/oai2.php	set=pub-type:8	metadataPrefix=XMetaDissPlus
-Universit&auml;t Heidelberg	http://archiv.ub.uni-heidelberg.de/volltextserver/cgi/oai2	set=74797065733D646F63746F72616C546865736973	metadataPrefix=XMetaDissPlus
-Universit&auml;t Heidelberg ; Thes	http://archiv.ub.uni-heidelberg.de/volltextserver/cgi/oai2	set=74797065733D6D6173746572546865736973	metadataPrefix=XMetaDissPlus
-Universit&auml;t Passau	https://opus4.kobv.de/opus4-uni-passau/oai	set=doc-type:doctoralthesis	metadataPrefix=xMetaDissPlus
-Universit&auml;t Potsdam - Diss	http://publishup.uni-potsdam.de/opus4-ubp/oai	set=doc-type:doctoralthesis	metadataPrefix=xMetaDissPlus
-Universit&auml;t Potsdam - Thes	http://publishup.uni-potsdam.de/opus4-ubp/oai	set=doc-type:masterthesis	metadataPrefix=xMetaDissPlus
-Universit&auml;t Regensburg	http://epub.uni-regensburg.de/cgi/oai2	set=driver	metadataPrefix=uketd_dc
-Universit&auml;t Stuttgart	http://elib.uni-stuttgart.de/opus/oai2/oai2.php	set=pub-type:8	metadataPrefix=xMetaDiss
-Universit&auml;t T&uuml;bingen	https://publikationen.uni-tuebingen.de/oai/request	set=com_10900_42126	metadataPrefix=mets
-Universit&auml;t Ulm	http://vts.uni-ulm.de/oai/oai.asp	set=pub-type:dissertation	metadataPrefix=xMetaDiss
-Universit&auml;t Zurich	http://www.zora.uzh.ch/cgi/oai2	set=74797065733D646973736572746174696F6E	metadataPrefix=oai_dc
-Universit&eacute; du Luxembourg	http://orbilu.uni.lu/oai/request	None	metadataPrefix=oai_dc
-Universit&ecute; M'Hamed Bougara de Boumerd&egrave;s	http://dlibrary.umbb.dz:8080/oai/request	None	metadataPrefix=oai_dc
-Universitat Polit&egrave;cnica de Val&egrave;ncia	http://riunet.upv.es/oai/request	set=col_10251_321	metadataPrefix=mets
+"Universit&agrave; Cattolica del Sacro Cuore"	http://tesionline.unicatt.it/dspace-oai/request	None	metadataPrefix=mets
+"Universit&agrave; degli Studi di Bergamo"	http://aisberg.unibg.it/dspace-oai/request	set=hdl_10446_6104	metadataPrefix=oai_dc
+"Universit&agrave; degli Studi di Milano"	http://air.unimi.it/dspace-oai/request	set=hdl_2434_146884	metadataPrefix=oai_dc
+"Universit&agrave; degli Studi di Padova"	http://tesi.cab.unipd.it/cgi/oai2	None	metadataPrefix=oai_dc
+"Universit&agrave; degli Studi di Trento"	http://eprints-phd.biblio.unitn.it/cgi/oai2	set=74797065733D746865736973	metadataPrefix=uketd_dc
+"Universit&agrave; di Bologna"	http://amsdottorato.unibo.it/cgi/oai2	None	metadataPrefix=oai_dc
+"Universit&agrave; di Cagliari"	http://veprints.unica.it/cgi/oai2	set=74797065733D746865736973	metadataPrefix=uketd_dc
+"Universit&agrave; di Pisa"	https://etd.adm.unipi.it/ETD-db/NDLTD-OAI/oai.pl	None	metadataPrefix=oai_etdms
+"Universit&auml;t Basel"	http://edoc.unibas.ch/cgi/oai2	set=74797065733D746865736973	metadataPrefix=oai_dc
+"Universit&auml;t Bayreuth"	https://epub.uni-bayreuth.de/cgi/oai2	set=driver	metadataPrefix=xMetaDissPlus
+"Universit&auml;t Bielefeld"	http://pub.uni-bielefeld.de/oai	None	metadataPrefix=xMetaDissPlus
+"Universit&auml;t Bremen"	http://elib.suub.uni-bremen.de/cgi-bin/CiXbase/edocs/CiXbase_search	set=DISS	metadataPrefix=xMetaDiss
+"Universit&auml;t Giessen"	http://geb.uni-giessen.de/geb/oai/oai2.php	set=pub-type:8	metadataPrefix=XMetaDissPlus
+"Universit&auml;t Heidelberg"	http://archiv.ub.uni-heidelberg.de/volltextserver/cgi/oai2	set=74797065733D646F63746F72616C546865736973	metadataPrefix=XMetaDissPlus
+"Universit&auml;t Heidelberg ; Thes"	http://archiv.ub.uni-heidelberg.de/volltextserver/cgi/oai2	set=74797065733D6D6173746572546865736973	metadataPrefix=XMetaDissPlus
+"Universit&auml;t Passau"	https://opus4.kobv.de/opus4-uni-passau/oai	set=doc-type:doctoralthesis	metadataPrefix=xMetaDissPlus
+"Universit&auml;t Potsdam - Diss"	http://publishup.uni-potsdam.de/opus4-ubp/oai	set=doc-type:doctoralthesis	metadataPrefix=xMetaDissPlus
+"Universit&auml;t Potsdam - Thes"	http://publishup.uni-potsdam.de/opus4-ubp/oai	set=doc-type:masterthesis	metadataPrefix=xMetaDissPlus
+"Universit&auml;t Regensburg"	http://epub.uni-regensburg.de/cgi/oai2	set=driver	metadataPrefix=uketd_dc
+"Universit&auml;t Stuttgart"	http://elib.uni-stuttgart.de/opus/oai2/oai2.php	set=pub-type:8	metadataPrefix=xMetaDiss
+"Universit&auml;t T&uuml;bingen"	https://publikationen.uni-tuebingen.de/oai/request	set=com_10900_42126	metadataPrefix=mets
+"Universit&auml;t Ulm"	http://vts.uni-ulm.de/oai/oai.asp	set=pub-type:dissertation	metadataPrefix=xMetaDiss
+"Universit&auml;t Zurich"	http://www.zora.uzh.ch/cgi/oai2	set=74797065733D646973736572746174696F6E	metadataPrefix=oai_dc
+"Universit&eacute; du Luxembourg"	http://orbilu.uni.lu/oai/request	None	metadataPrefix=oai_dc
+"Universit&ecute; M'Hamed Bougara de Boumerd&egrave;s"	http://dlibrary.umbb.dz:8080/oai/request	None	metadataPrefix=oai_dc
+"Universitat Polit&egrave;cnica de Val&egrave;ncia"	http://riunet.upv.es/oai/request	set=col_10251_321	metadataPrefix=mets
 Universiteit Hasselt	https://doclib.uhasselt.be/dspace-oai/request	None	metadataPrefix=oai_dc
 Universiteit Leiden	https://openaccess.leidenuniv.nl/oai/request	None	metadataPrefix=mets
 Universiteit Utrecht	http://dspace.library.uu.nl/oai/request	None	metadataPrefix=oai_dc
 Universiteit van Amsterdam	http://dare.uva.nl/cgi/arno/oai/uvapub	None	metadataPrefix=oai_dc
 University Botswana	http://www.ubrisa.ub.bw/oai/request	set=hdl_10311_909	metadataPrefix=oai_dc
 University College London	http://eprints.ucl.ac.uk/cgi/oai2	set=DART-Europe	metadataPrefix=uketd_dc
-University College of Malm&ouml;	http://dspace.mah.se/oai/request	None	metadataPrefix=oai_dc
+"University College of Malm&ouml;"	http://dspace.mah.se/oai/request	None	metadataPrefix=oai_dc
 University Georgia	http://athenaeum.libs.uga.edu/oai/request	set=com_10724_3	metadataPrefix=dim
 University Novi Sad	http://cris.uns.ac.rs/OAIHandlerOATD	set=theses	metadataPrefix=oai_dc
 University Waikato	http://researchcommons.waikato.ac.nz/dspace-oai/request	set=col_10289_2223	metadataPrefix=mets
