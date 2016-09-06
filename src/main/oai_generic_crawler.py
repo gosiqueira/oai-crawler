@@ -10,7 +10,6 @@ from oaipmh.error import NoRecordsMatchError
 from oaipmh.metadata import MetadataRegistry, oai_dc_reader
 from os.path import exists
 from os import makedirs
-from requests.exceptions import HTTPError
 from time import time, ctime
 from xml.etree.ElementTree import Element
 from xml.etree.ElementTree import tostring
@@ -138,7 +137,7 @@ class OAICrawler():
         except BadVerbError, bve:
             self.logger.error(u'{0}. Check repository {1}'.format(bve.message, repository[0]))
 
-        except HTTPError, httpe:
+        except urllib.error.HTTPError, httpe:
             self.logger.error(
                 u'Error 404. Page not found. Check url {0} for repository {1}'.format(repository[1], repository[0]))
 
