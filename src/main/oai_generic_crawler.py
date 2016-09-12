@@ -25,7 +25,8 @@ METADATA = 'oai_dc'
 ENCODE = 'utf-8'
 SEPARATOR = '================================'
 
-#TODO Usar datestamp para coletas retroativas.
+
+# TODO Usar datestamp para coletas retroativas.
 class OAICrawler():
     '''
         This class provides a basic OAI crawler for repositories that use such a protocol.
@@ -44,7 +45,7 @@ class OAICrawler():
         self.logger.info('Starting process at {0}.'.format(ctime()))
 
         pool = Pool(threads)
-        pool.imap_unordered(self.retrieval, repository_list)
+        pool.map(self.retrieval, repository_list)
         pool.close()
         pool.join()
 
@@ -109,15 +110,15 @@ class OAICrawler():
                         parsed_records_list.append(tostring(record[1].element()))
                 self.logger.info(
                     u'Retrieved {0} records from set {1} where {2} were deleted'.format(records_count, repository[2],
-                                                                                       deleted_count))
+                                                                                        deleted_count))
             if not exists(''.join(['files/', repository_name_normalized, '/'])):
                 self.logger.info('Creating storage folder for {0}...'.format(repository_name))
                 makedirs(''.join(['files/', repository_name_normalized, '/']))
 
             self.logger.info(u'Creating storage files...')
             meta_file = open(''.join(['files/', repository_name_normalized, '/metadata.xml']), 'w')
-            metadata['records_number'] = records_count
-            metadata['deleted_number'] = deleted_count
+            metadata[repository[2] + '_records_number'] = records_count
+            metadata[repository[2] + '_deleted_number'] = deleted_count
             meta_file.write(tostring(dict_to_xml('metadata', metadata)))
             meta_file.close()
 
@@ -179,8 +180,8 @@ def parse_repository_file(file):
             # parsing sets
             if line_components[2] != 'None':
                 line_components[2] = line_components[2].split('=')[1]
-            # else:
-            #    line_components[2] = None
+            else:
+               line_components[2] = None
 
             # parsing metadata_prefix
             line_components[3] = line_components[3].split('=')[1]
@@ -191,8 +192,8 @@ def parse_repository_file(file):
 
 if __name__ == '__main__':
     # Main usage
-    # OAICrawler().pool_worker(parse_repository_file('world_repositories'))
+    OAICrawler().pool_worker(parse_repository_file('world_repositories'))
 
     # Test usage
-    OAICrawler().pool_worker([['AUT University Doctoral Theses', 'http://aut.researchgateway.ac.nz/dspace-oai/request',
-                               'col_10292_4', 'mets']])
+    # OAICrawler().pool_worker([['AUT University Doctoral Theses', 'http://aut.researchgateway.ac.nz/dspace-oai/request',
+    #                            'col_10292_4', 'mets']])
